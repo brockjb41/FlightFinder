@@ -7,3 +7,7 @@
 //
 
 import Foundation
+
+struct Airport {
+    let airportCode: String
+}
